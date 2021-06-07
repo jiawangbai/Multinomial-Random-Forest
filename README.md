@@ -1,7 +1,8 @@
 # Multinomial-Random-Forest
 A python 3.x implementation of Multinomial Random Forests (MRF).
 
-## Requirements: This package is developed with Python 3.x, please make sure all the dependencies are installed, 
+## Requirements
+This package is developed with Python 3.x, please make sure all the dependencies are installed, 
 which is specified in requirements.txt. Please run the following command to install dependencies before running the code:
 > pip install -r requirements.txt.
 
