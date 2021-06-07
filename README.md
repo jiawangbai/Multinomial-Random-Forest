@@ -8,7 +8,7 @@ which is specified in requirements.txt. Please run the following command to inst
 
 ## Description of files
 
-|    <file name>     |            <description>                    |
+|    \<file name\>     |            \<description\>                    |
 |--------------------|---------------------------------------------|
 |   data/car.data    | Data using in the demo.                     |
 |      demo.py       | Example of training and test MRF.           |
