@@ -8,21 +8,14 @@ which is specified in requirements.txt. Please run the following command to inst
 
 ## Description of files
 
-|————————————————————|—————————————————————————————————————————————|
 |    <file name>     |            <description>                    |
-|————————————————————|—————————————————————————————————————————————|
+|--------------------|---------------------------------------------|
 |   data/car.data    | Data using in the demo.                     |
-|————————————————————|—————————————————————————————————————————————|
 |      demo.py       | Example of training and test MRF.           |
-|————————————————————|—————————————————————————————————————————————| 
 |   DecisionNode.py  | Implement of node that make up the tree.    | 
-|————————————————————|—————————————————————————————————————————————|
 |      Tree.py       | Implement of tree classifier.               |
-|————————————————————|—————————————————————————————————————————————|
 |  MultinomialRF.py  | Implement of MRF classifier.                |
-|————————————————————|—————————————————————————————————————————————|
 |     utils.py       | Utils using in the above codes.             |
-|————————————————————|—————————————————————————————————————————————|
  
 ## Run the demo
 
