@@ -12,8 +12,8 @@ which is specified in requirements.txt. Please run the following command to inst
 |    \<file name\>     |            \<description\>                    |
 |--------------------|---------------------------------------------|
 |   data/car.data    | Data used in the demo.                      |
-|      demo.py       | Example of training and test MRF.           |
-|   DecisionNode.py  | Implementation of node that make up the tree.    | 
+|      demo.py       | Example of MRF training and test.           |
+|   DecisionNode.py  | Implementation of node that makes up the tree.    | 
 |      Tree.py       | Implementation of tree classifier.               |
 |  MultinomialRF.py  | Implementation of MRF classifier.                |
 |     utils.py       | Utils used in the above codes.              |
