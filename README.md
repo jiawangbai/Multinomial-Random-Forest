@@ -1,5 +1,5 @@
 # Multinomial-Random-Forest
-This is the official Python 3.x implementation of our paper [Multinomial Random Forest](https://www.sciencedirect.com/science/article/pii/S0031320321005112), accepted by Pattern Recognition (2021). 
+This is the official Python 3.x implementation of our paper [Multinomial Random Forest](https://www.sciencedirect.com/science/article/pii/S0031320321005112), accepted by the Pattern Recognition (2021). 
 
 ## Requirements
 This package is developed with Python 3.x, please make sure all the dependencies are installed, 
@@ -28,7 +28,8 @@ Modify the parameter CROSS_VALIDATION = True to run the cross validation.
 
 ## Reference
 If our work is useful for your research, please cite our paper as follows:
-'''
+
+```
 @article{bai2021multinomial,
   title={Multinomial Random Forest},
   author={Bai, Jiawang and Li, Yiming and Li, Jiawei and Yang, Xue and Jiang, Yong and Xia, Shu-Tao},
@@ -37,4 +38,4 @@ If our work is useful for your research, please cite our paper as follows:
   year={2021},
   publisher={Elsevier}
 }
-'''
+```
